@@ -8,6 +8,9 @@ const app = () => {
       Hello man,
       its a new test for the codelens v2 check
     </h>
+    <h2>
+      Hello Arnab
+    </h2>
     </>
   )
 }
